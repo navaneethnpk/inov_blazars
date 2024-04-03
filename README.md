@@ -1,1 +1,1 @@
-The Python codes used for my project INOV of Blazars.
+The Python codes used for project 'INOV of Blazars'.
